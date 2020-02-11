@@ -2,10 +2,6 @@
 
 [Cookiecutter](https://cookiecutter.rtfd.io) template to generate a simple project layout.
 
-## License
-
-GPL 3. See the [LICENSE](https://git.beta.ucr.ac.cr/cslucr/plantillas/cookiecutter-simple/raw/master/LICENSE) file for more details.
-
 ## Layout
 
 This repository provides the following file tree layout:
@@ -44,6 +40,10 @@ Generate the project using *Cookiecutter*:
 ```
 cookiecutter https://github.com/cslucr/plantillas/cookiecutter-simple.git
 ```
+
+## License
+
+GPL 3. See the [LICENSE](https://git.beta.ucr.ac.cr/cslucr/plantillas/cookiecutter-simple/raw/master/LICENSE) file for more details.
 
 ## Links
 
