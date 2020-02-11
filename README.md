@@ -23,8 +23,7 @@ simple/
 │   ├── author.png
 │   └── avatar.png
 ├── LICENSE
-├── README.rst
-└── README-single.rst
+└── README.rst
 ```
 
 ## Usage
