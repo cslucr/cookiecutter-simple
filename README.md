@@ -21,6 +21,10 @@ simple/
 │           └── .gitkeep
 ├── docthis.sh
 ├── .gitignore
+├── .gitlab
+│   └── issue_templates
+│       ├── Bug.md
+│       └── Feature.md
 ├── img
 │   ├── author.png
 │   └── avatar.png
