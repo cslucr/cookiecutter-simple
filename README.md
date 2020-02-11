@@ -18,12 +18,15 @@ simple/
 │       ├── license.rst
 │       ├── links.rst
 │       └── _static
+│           └── .gitkeep
 ├── docthis.sh
+├── .gitignore
 ├── img
 │   ├── author.png
 │   └── avatar.png
 ├── LICENSE
-└── README.rst
+├── README.rst
+└── .readthedocs.yml
 ```
 
 ## Usage
