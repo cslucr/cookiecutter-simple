@@ -49,7 +49,7 @@ GPL 3. See the [LICENSE](https://git.beta.ucr.ac.cr/cslucr/plantillas/cookiecutt
 
 ## Links
 
-  - [Github repository](https://github.com/cslucr/plantillas/cookiecutter-simple).
+  - [Github repository](https://github.com/cslucr/cookiecutter-simple).
   - [Gitlab repository](https://git.beta.ucr.ac.cr/cslucr/plantillas/cookiecutter-simple).
 
 ## Author Information
