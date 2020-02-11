@@ -1,6 +1,6 @@
 # cookiecutter-simple
 
-![skeleton](https://git.beta.ucr.ac.cr/cslucr/plantillas/cookiecutter-simple/img/raw/master/skeleton.png)
+![skeleton](https://git.beta.ucr.ac.cr/cslucr/plantillas/cookiecutter-simple/raw/master/img/skeleton.png)
 
 [Cookiecutter](https://cookiecutter.rtfd.io) template to generate a simple project layout.
 
@@ -54,6 +54,6 @@ cookiecutter https://github.com/cslucr/plantillas/cookiecutter-simple.git
 
 ## Author Information
 
-[![cslucr](https://git.beta.ucr.ac.cr/cslucr/plantillas/cookiecutter-simple/img/raw/master/author.png)](https://git.beta.ucr.ac.cr/cslucr)
+[![cslucr](https://git.beta.ucr.ac.cr/cslucr/plantillas/cookiecutter-simple/raw/master/img/author.png)](https://git.beta.ucr.ac.cr/cslucr)
 
-Comunidad de Software Libre de la Universidad de Costa Rica.
+Comunidad de Software Libre de la Universidad de Costa Rica
