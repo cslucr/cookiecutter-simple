@@ -1,7 +1,5 @@
 # cookiecutter-simple
 
-![skeleton](https://git.beta.ucr.ac.cr/cslucr/plantillas/cookiecutter-simple/raw/master/img/skeleton.png)
-
 [Cookiecutter](https://cookiecutter.rtfd.io) template to generate a simple project layout.
 
 ## License
