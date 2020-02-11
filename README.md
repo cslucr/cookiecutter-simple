@@ -40,7 +40,7 @@ python3 -m pip install cookiecutter
 Generate the project using *Cookiecutter*:
 
 ```
-cookiecutter https://github.com/cslucr/plantillas/cookiecutter-simple.git
+cookiecutter https://github.com/cslucr/cookiecutter-simple.git
 ```
 
 ## License
