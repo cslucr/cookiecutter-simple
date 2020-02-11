@@ -3,7 +3,7 @@
 
 |READTHEDOCS_BADGE|
 
-Ansible role to apply a system upgrade.
+{{ cookiecutter.description }}
 
 |AVATAR_IMG|
 

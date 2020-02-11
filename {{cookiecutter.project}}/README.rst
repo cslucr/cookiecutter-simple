@@ -5,7 +5,7 @@
 .. image:: https://readthedocs.org/projects/{{ cookiecutter.project }}/badge
    :alt: readthedocs
 
-Describe me shortly.
+{{ cookiecutter.description }}
 
 .. image:: https://git.beta.ucr.ac.cr/{{ cookiecutter.author }}/{{ cookiecutter.project }}/raw/master/img/avatar.png
    :alt: avatar
@@ -30,7 +30,7 @@ Contents
 Description
 ***********
 
-Describe me.
+{{ cookiecutter.description }}
 
 
 License

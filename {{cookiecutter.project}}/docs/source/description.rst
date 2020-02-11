@@ -1,4 +1,4 @@
 Description
 ------------------------------------------------------------------------------
 
-Describe me.
+{{ cookiecutter.description }}
