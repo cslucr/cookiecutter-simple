@@ -2,13 +2,27 @@
 
 [Cookiecutter](https://cookiecutter.rtfd.io) template to generate a simple project layout.
 
+## Usage
+
+Install *Cookiecutter*:
+
+```
+python3 -m pip install cookiecutter
+```
+
+Generate the project using *Cookiecutter*:
+
+```
+cookiecutter https://github.com/cslucr/cookiecutter-simple.git
+```
+
 ## Layout
 
 This repository provides the following file tree layout:
 
 ```
-simple/
-├── docs
+simple
+├── doc
 │   ├── requirements.txt
 │   └── source
 │       ├── author.rst
@@ -16,7 +30,7 @@ simple/
 │       ├── description.rst
 │       ├── index.rst
 │       ├── license.rst
-│       ├── links.rst
+│       ├── link.rst
 │       └── _static
 │           └── .gitkeep
 ├── docthis.sh
@@ -31,20 +45,6 @@ simple/
 ├── LICENSE
 ├── README.rst
 └── .readthedocs.yml
-```
-
-## Usage
-
-Install *Cookiecutter*:
-
-```
-python3 -m pip install cookiecutter
-```
-
-Generate the project using *Cookiecutter*:
-
-```
-cookiecutter https://github.com/cslucr/cookiecutter-simple.git
 ```
 
 ## License
